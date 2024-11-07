@@ -47,3 +47,12 @@ Para rodar o script manualmente, execute o seguinte comando:
 
 ./scripts/run_ios_tests.sh
 ```
+
+
+### Dicas
+
+Comando do mac para listar simuladores para que você possa pegar o ID
+
+```bash
+xcrun simctl list devices
+```
